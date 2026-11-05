@@ -9,8 +9,8 @@
       "name": "ekan",
       "version": "3.12.0",
       "source": {
-        "source": "github",
-        "repo": "ekan-management/ekan-consulting-os"
+        "source": "url",
+        "url": "https://github.com/ekan-management/ekan-consulting-os.git"
       },
       "description": "AI-konsult-OS med ramverk och svenskspråkiga skills för managementkonsulter"
     }
