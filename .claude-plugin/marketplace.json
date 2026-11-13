@@ -7,7 +7,6 @@
   "plugins": [
     {
       "name": "ekan",
-      "version": "3.13.0",
       "source": {
         "source": "url",
         "url": "https://github.com/ekan-management/ekan-consulting-os.git"
